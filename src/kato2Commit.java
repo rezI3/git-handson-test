@@ -8,4 +8,8 @@ public class kato2Commit {
         num = 3;
     }
 
+    public void setCommit(String commit) {
+        this.commit = commit;
+    }
+
 }
