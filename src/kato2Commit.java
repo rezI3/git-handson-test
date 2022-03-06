@@ -5,7 +5,7 @@ public class kato2Commit {
 
     public kato2Commit(){
         commit = "うまくできてるかな";
-        num = 2;
+        num = 3;
     }
 
 }
